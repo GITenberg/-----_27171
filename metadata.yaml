@@ -1,0 +1,31 @@
+_repo: '-----_27171'
+_version: 0.1.0
+alternative_title: Guigu si you zhi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yang, Jingchang, active 18th century-19th century
+    aliases:
+    - 楊景〓
+    - Yang, Tan-yu
+    - Yang, Danyou
+    gutenberg_agent_id: '32508'
+    url: http://www.gutenberg.org/2009/agents/32508
+description: ''
+gutenberg_issued: '2008-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27171'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sun, Bin, active 4th century B.C. -- Fiction'
+- !lcsh 'Pang, Juan, active 4th century B.C. -- Fiction'
+- !lcc 'PL'
+- !lcsh 'China -- History -- Warring States, 403-221 B.C. -- Fiction'
+title: 鬼谷四友志
+url: http://www.gutenberg.org/ebooks/27171
